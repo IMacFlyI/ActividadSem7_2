@@ -1,0 +1,35 @@
+App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Arial', Times, serif;
+  font-size: 40px;
+  background-color: rgb(167, 24, 24);
+  color: rgba(214, 226, 40, 0.685);
+}
+
+table {
+  width: 90%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+th,
+td {
+  border: 1px solid;
+  background-color: beige;
+}
+
+th {
+  background-color: rgb(93, 223, 88);
+  font-family: 'Arial';
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
